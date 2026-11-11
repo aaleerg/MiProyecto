@@ -1,0 +1,16 @@
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\obj\Debug\net11.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\obj\Debug\net11.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\obj\Debug\net11.0\MiProyecto.AssemblyInfo.cs
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\obj\Debug\net11.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\bin\Debug\net11.0\MiProyecto.exe
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\bin\Debug\net11.0\MiProyecto.deps.json
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\bin\Debug\net11.0\MiProyecto.runtimeconfig.json
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\bin\Debug\net11.0\MiProyecto.runtimeconfig.dev.json
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\bin\Debug\net11.0\MiProyecto.dll
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\bin\Debug\net11.0\MiProyecto.pdb
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\obj\Debug\net11.0\MiProyecto.dll
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\obj\Debug\net11.0\refint\MiProyecto.dll
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\obj\Debug\net11.0\MiProyecto.pdb
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\obj\Debug\net11.0\MiProyecto.genruntimeconfig.cache
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\obj\Debug\net11.0\ref\MiProyecto.dll
+C:\Users\aleja\Downloads\MIPROYETO\MiProyecto\obj\Debug\net11.0\MiProyecto.csproj.Up2Date
